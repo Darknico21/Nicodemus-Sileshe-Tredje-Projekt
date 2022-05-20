@@ -1,0 +1,13 @@
+button {
+    width: 15vw;
+    height: 2vw;
+}
+
+.rubrik {
+    color: rgb(70, 253, 238);
+    background:darkblue;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
