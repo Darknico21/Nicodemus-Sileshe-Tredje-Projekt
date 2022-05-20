@@ -1,6 +1,8 @@
 button {
     width: 15vw;
-    height: 2vw;
+    height: 5vw;
+    display: flex;
+    align-items: center;
 }
 
 .rubrik {
@@ -17,4 +19,9 @@ button {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
 }
